@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("spat hochu")
-
+	text := "I love dogs"
+	fmt.Println(text)
 }
